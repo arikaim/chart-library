@@ -1,0 +1,13 @@
+{
+    "version": "2.9.0",
+    "name": "chart",
+    "title": "Chart.js",
+    "package-type": "library",
+    "repository": "https://github.com/arikaim/chart-library.git",
+    "help": "https://www.chartjs.org/docs/latest/",
+    "description": "Simple yet flexible JavaScript charting for designers & developers.",
+    "framework": false,
+    "files": [     
+        "chart.bundle.min.js"
+    ]       
+}
