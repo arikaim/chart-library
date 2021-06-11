@@ -1,5 +1,5 @@
 {
-    "version": "2.9.0",
+    "version": "3.3.2",
     "name": "chart",
     "title": "Chart.js",
     "package-type": "library",
@@ -8,6 +8,18 @@
     "description": "Simple yet flexible JavaScript charting for designers & developers.",
     "framework": false,
     "files": [     
-        "chart.bundle.min.js"
-    ]       
+        "chart.min.js"
+    ],
+    "versions": {
+        "2.9": {
+            "files": [
+                "chart.bundle.min.js"
+            ]
+        },
+        "cdn": {
+            "files": [
+                "https://cdn.jsdelivr.net/npm/chart.js@3.3.2/dist/chart.min.js"
+            ]            
+        }
+    }       
 }
