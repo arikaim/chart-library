@@ -1,5 +1,5 @@
 {
-    "version": "3.3.3",
+    "version": "3.3.4",
     "name": "chart",
     "title": "Chart.js",
     "package-type": "library",
@@ -18,8 +18,8 @@
         },
         "apex": {
             "files": [
-                "apexcharts.min.js",
-                "apexcharts.css"
+                "apex/apexcharts.min.js",
+                "apex/apexcharts.css"
             ]
         },
         "cdn": {
